@@ -410,7 +410,5 @@ node *rastiMaziausiaNode(node *preke)
         preke = preke->left;
     }
     return preke;
-}// Temporary comment
-potato
-potato
+}
 //potato
