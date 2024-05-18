@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 //im stopping these changes
+=======
+
+>>>>>>> Stashed changes
 #include <iostream>
 using namespace std;
 
