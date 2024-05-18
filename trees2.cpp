@@ -1,6 +1,4 @@
-//Hello there
-//Hello to you too
-//potato
+//im stopping these changes
 #include <iostream>
 using namespace std;
 
